@@ -7,16 +7,17 @@
 int main(void)
 
 {
-	int i;
+	
+int i;
 
-	for (i = 48 ; <= 57; i++)
-	{
-		putchar (i);
-	}
+for (i = 48 ; <= 57; i++)
+{
+putchar (i);
+}
 
-	putchar ('\n');
+putchar ('\n');
 
-	return (0);
+return (0);
 
 }
 
