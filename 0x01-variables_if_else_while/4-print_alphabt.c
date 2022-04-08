@@ -17,7 +17,7 @@ for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	else if (alphabet == 'e')
 		continue;
 
-	putchar(alphabet);
+	putchar (alphabet);
 }
 
 putchar ('\n');
