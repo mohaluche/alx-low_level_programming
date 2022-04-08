@@ -13,6 +13,6 @@ int main(void)
 		printf("%i", i);
 	}
 	printf("\n");
-		return (0)
+		return (0);
 
 }
