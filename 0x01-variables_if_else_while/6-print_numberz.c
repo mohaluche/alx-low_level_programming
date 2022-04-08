@@ -8,10 +8,14 @@ int main(void)
 
 {
 	int i;
+
 	for (i = 48 ; <= 57; i++)
-	{putchar (i);
+
+	{
+		putchar (i);
 	}
-	putchat ('\n');
+
+	putchar ('\n');
 
 	return (0);
 
