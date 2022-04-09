@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Retirn: :Always 0 (Success/correct)
+ * Retirn: Always 0 (Success/correct)
  */
 int main(void)
 
