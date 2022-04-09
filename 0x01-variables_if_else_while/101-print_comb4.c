@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- *  * main - entry point
- *   *
- *    * codes for printing all possible combination of two d/t digits
- *     * in assending oeder and separated by a comma followed by a space.
- *      *
- *       * Return: 0 Success
- *        */
+ * main - entry point
+ *
+ * codes for printing all possible combination of two d/t digits
+ * in assending oeder and separated by a comma followed by a space.
+ *
+ * Return: 0 Success
+ */
 int main(void)
 {
 	        int digit1, digit2, digit3;
