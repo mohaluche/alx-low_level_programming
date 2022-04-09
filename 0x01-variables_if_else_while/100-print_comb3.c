@@ -1,5 +1,7 @@
 #include <stdio.h>
 /**
+ * main - entry point
+ *
  * codes for printing all possible combination of two d/t digits
  * in assending oeder and separated by a comma followed by a space.
  *
