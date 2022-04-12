@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - enty point
- * A program that prints _putchar
- * return: 0 Success
+ * main-main block
+ * Description:A program that prints _putchar
+ * Return: 0 Success
  */
 int main(void)
 {
