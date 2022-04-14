@@ -1,6 +1,6 @@
 #include <main.h>
 /**
- * _isuppur - checks upper case
+ * _isupper - checks upper case
  * @: print int
  * Return: gives 1 or 0
  */
@@ -16,5 +16,4 @@ int _isupper(int c)
 	{
 		return (0);
 	}
-
 }
