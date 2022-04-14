@@ -1,6 +1,6 @@
-#include <main.h>
+#include "main.h"
 /**
- * _isupper - checks uppercase
+ * _isupper - a value if latter is uppercase
  * @c: print int
  * Return: Always 0
  */
@@ -16,5 +16,4 @@ else
 {
 return (0);
 }
-
 }
