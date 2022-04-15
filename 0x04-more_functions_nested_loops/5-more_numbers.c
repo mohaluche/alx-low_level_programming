@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * more_numbers - prints 0 to 14
+ * more_numbers - prints 10 times the numbers, from 0 to 14
  *
  * Return: Always 0
  */
@@ -36,5 +36,7 @@ result++;
 }
 i++;
 result = 0;
+_putchar ('\n');
 }
+
 }
