@@ -1,12 +1,13 @@
 #include "main.h"
+
 /**
  * print_most_numbers - prints numbers
- * 
+ * Description: prints
  * Return: Always 0.
  */
+
 void print_most_numbers(void)
 {
-
 int i;
 
 i = 0;
