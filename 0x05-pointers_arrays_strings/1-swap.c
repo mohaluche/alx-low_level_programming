@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * swap - swap value of two integers
- *
- * Return: Always 0.
+ * swap_int swap the values
+ *@a: pointer to a
+ *@b: pointer to b
+ *Return: nothing
  */
 void swap_int(int *a, int *b)
 {
@@ -11,6 +12,4 @@ void swap_int(int *a, int *b)
 	aux = *a;
 	*a = *b;
 	*b = aux;
-
-	return (0);
 }
